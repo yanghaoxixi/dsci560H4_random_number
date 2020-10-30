@@ -1,6 +1,11 @@
 # Random number generator
 Same as repository for hw2, generate 1000 random number and visualize it. But this is for hw4, which will be implement on virtual environment and Binder.
 
+## Brief intro
+- a.py is to generate 1000 random number X between 0~100
+- b.py is to generate corresponding 1000 number Y = 3 * X + 6
+- c.py is to visualization numbers generated in a.py and b.py
+
 ## Virtual environment creation
 ### Step 1: create a blank virtual environment and name it dsci560H4
 - `pip install virtualenv` to install package of virtual environment
