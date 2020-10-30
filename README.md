@@ -3,9 +3,9 @@ Same as repository for hw2, generate 1000 random number and visualize it. But th
 
 ## Virtual environment creation
 ###Step 1: create a blank virtual environment and name it dsci560H4
-- 'pip install virtualenv' to install package of virtual environment
-- 'py -m venv dsci560H4' to create a virtual environment called dsci560H4
-- '.\dsci560H4\Scripts\activate' to activate the virtual environment for implement scripts.
+- `pip install virtualenv` to install package of virtual environment
+- `py -m venv dsci560H4` to create a virtual environment called dsci560H4
+- `.\dsci560H4\Scripts\activate` to activate the virtual environment for implement scripts.
 
 
 ## Binder badge to notebook
