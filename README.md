@@ -5,6 +5,8 @@ Same as repository for hw2, generate 1000 random number and visualize it. But th
 - a.py is to generate 1000 random number X between 0~100
 - b.py is to generate corresponding 1000 number Y = 3 * X + 6
 - c.py is to visualization numbers generated in a.py and b.py
+- run_visualization.ipynb is a Jupyter notebook to run scripts above and it can save the number generated into file
+- random_points_x.json and random_points_y.json is the file to save the random number generated
 
 ## Virtual environment creation
 ### Step 1: create a blank virtual environment and name it dsci560H4
