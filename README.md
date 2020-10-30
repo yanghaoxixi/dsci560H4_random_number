@@ -19,7 +19,7 @@ Same as repository for hw2, generate 1000 random number and visualize it. But th
 - screenshot for visualization
 ![screenshot](/screenshot/visualization.png)
 
-### Step 4: Extract the dependencies and compare
+### Step 4: Extract the dependencies and compare with packages manually installed
 - `pip freeze > requirements.txt` to save the dependencies into file requirements.txt
 ![screenshot](/screenshot/freeze.png)
 - **Comparison:** I only manually installed matplotlib package for implement visualization, but when I extracted dependencies, I found there are many packages installed. This is because package matplotlib is based on other packages to work, such as numpy. So, even though I only installed one package, many packages will be install indeed.
