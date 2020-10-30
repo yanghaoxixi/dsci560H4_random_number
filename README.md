@@ -18,5 +18,9 @@ Same as repository for hw2, generate 1000 random number and visualize it. But th
 ![screenshot](/screenshot/generating_number.png)
 - screenshot for visualization
 ![screenshot](/screenshot/visualization.png)
+
+### Step 4: Extract the dependencies and compare
+
+
 ## Binder badge to notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yanghaoxixi/dsci560H4_random_number/main?filepath=run_visualization.ipynb)
